@@ -11,6 +11,7 @@ With a single SOS tap, users can trigger an alert, share location status, and ac
 - ☎️ Direct call to emergency numbers (112, 108, Women Helpline)
 - 🔥 Firebase integration for alert logging
 - 📱 Mobile-friendly UI
+- *Note: On mobile devices, tapping will directly place a call. On desktops/ laptops, the call depends on installed telephony apps.* 
 
 ---
 
@@ -44,11 +45,6 @@ With a single SOS tap, users can trigger an alert, share location status, and ac
 
 ---
 
-## 🔹 GitHub Repository
-You are currently viewing it 🙂
-
----
-
 ## 🔹 Future Improvements
 - Real-time GPS location sharing
 - SMS / WhatsApp alert integration
@@ -59,4 +55,3 @@ You are currently viewing it 🙂
 
 ## 👩‍💻 Created By
 **Swapnil Sharma**  
-BCA Student | Aspiring Software Engineer
