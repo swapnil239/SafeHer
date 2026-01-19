@@ -39,9 +39,8 @@ With a single SOS tap, users can trigger an alert, share location status, and ac
 
 ---
 
-## 🔹 Live Demo
-(After GitHub Pages hosting)  
-➡️ *Link will be updated*
+## 🔹 Live Demo 
+https://swapnil239.github.io/SafeHer/
 
 ---
 
